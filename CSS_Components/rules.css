@@ -1,0 +1,22 @@
+.rules-container{
+    position: relative;
+    top: 30vh;
+    color: white;
+    display: flex;
+    justify-content: center;
+    letter-spacing: 2px;
+    font-size: 1.25rem;
+}
+
+.rules-container li{
+    margin: 0.5rem;
+    color: yellow;
+    margin-bottom: 1rem;
+}
+
+.start-btn-container{
+    display: flex;
+    justify-content: center;
+    margin: 2rem;
+}
+
